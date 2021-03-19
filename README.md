@@ -128,8 +128,8 @@ rails aborted!
 ExecJS::RuntimeUnavailable: Could not find a JavaScript runtime. See https://github.com/rails/execjs for a list of available runtimes.
 ```
 
-Since rails uses a bit of JavaScript you may need to install node: 
-`brew install node`
+Since rails uses a bit of JavaScript you may need to install node:   
+`$ brew install node`
 
 Now we will need to get our server up and running and ready for HTTP requests. To do this, run either
 
